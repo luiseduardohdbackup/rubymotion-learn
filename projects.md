@@ -11,7 +11,7 @@ I am going to make a major announcement in next couple of hours, watch this spac
 
 9th May 50 projects RubyMotion 1.3 released
 
-10th May 57 projects
+10th May 59 projects
 
 expecting more people will push their projects today to github
 
@@ -126,6 +126,15 @@ SplitViewController in rubymotion, targeted at iPad
 
 https://github.com/eatcpcks/rubymotion-bars.git
 I Need Booze, app runs but when getting location crashes
+
+https://github.com/sakisakira/IBOutletActionRubyMotion.git
+A sample project of IBAction and IBOutlet from .xib to RubyMotion code
+
+https://github.com/nlehuen/MotionCalc.git
+An RPN calculator for iPhone implemented using RubyMotion
+
+https://github.com/Watson1978/RubyMotion-Benchmark.git
+A Benchmark library for RubyMotion
 
 FAILS
 =====
