@@ -68,6 +68,7 @@ projects tested on my 2008 mbp
 
 10th May 59 projects
 
+11th May 64 projects
 
 RUNS
 ====
@@ -184,6 +185,18 @@ An RPN calculator for iPhone implemented using RubyMotion
 
 https://github.com/Watson1978/RubyMotion-Benchmark.git
 A Benchmark library for RubyMotion
+
+11th May
+
+https://github.com/mdks/rm-redgreen.git
+ansi coloring for console output
+
+https://github.com/makzan/RubyMotion-USD-to-MOP-Convertor.git
+simple Currency converter
+
+https://github.com/matsimitsu/itrakt_motion.git
+one of the more polished applications, tabs, table view, remote data and images loaded. would be awesome if there was indicator, WIP
+
 
 FAILS
 =====
