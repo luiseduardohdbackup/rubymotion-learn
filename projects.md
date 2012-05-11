@@ -68,7 +68,7 @@ projects tested on my 2008 mbp
 
 10th May 59 projects
 
-11th May 64 projects
+11th May 67 projects
 
 RUNS
 ====
@@ -196,6 +196,9 @@ simple Currency converter
 
 https://github.com/matsimitsu/itrakt_motion.git
 one of the more polished applications, tabs, table view, remote data and images loaded. would be awesome if there was indicator, WIP
+
+https://github.com/makzan/rubymotion-pan-view-example.git
+Pan view
 
 
 FAILS
