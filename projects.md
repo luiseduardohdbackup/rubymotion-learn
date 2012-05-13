@@ -70,6 +70,8 @@ projects tested on my 2008 mbp
 
 11th May 67 projects
 
+13th May 70 projects
+
 RUNS
 ====
 
@@ -200,6 +202,16 @@ one of the more polished applications, tabs, table view, remote data and images 
 https://github.com/makzan/rubymotion-pan-view-example.git
 Pan view
 
+
+13th May
+https://github.com/timidri/RandomCatz.git
+loads random cat pitures from server, can be used for other purposes
+
+https://github.com/mjmsmith/rubymotion-times.git
+a RSS reader
+
+https://github.com/andrew/lightning.git
+lightning talk timer, one app which you can use in real life immediately awesom
 
 FAILS
 =====
