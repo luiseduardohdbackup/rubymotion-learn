@@ -211,7 +211,10 @@ https://github.com/mjmsmith/rubymotion-times.git
 a RSS reader
 
 https://github.com/andrew/lightning.git
-lightning talk timer, one app which you can use in real life immediately awesom
+lightning talk timer, one app which you can use in real life immediately awesome
+
+https://github.com/jaimeiniesta/rubymotion-todo.git
+todo app, WIP, added via cookbook ticket
 
 FAILS
 =====
