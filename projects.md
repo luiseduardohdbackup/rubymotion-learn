@@ -70,7 +70,7 @@ projects tested on my 2008 mbp
 
 11th May 67 projects
 
-13th May 70 projects
+13th May 72 projects
 
 RUNS
 ====
@@ -230,7 +230,7 @@ https://github.com/seanho/SimpleView.git
 https://github.com/siuying/hpple-motion.git
 An XML/HTML parser for RubyMotion, with nokogiri style interface., fails for now
 
-
+https://github.com/fearoffish/rubymotion-starter-kits.git
 
 Tools and Libraries
 ===================
