@@ -72,6 +72,8 @@ projects tested on my 2008 mbp
 
 13th May 74 projects
 
+17th May 84 projects
+
 RUNS
 ====
 
@@ -238,6 +240,17 @@ foursquare api implementation WIP
 https://github.com/netmute/MotionHighscores.git
 high scores app, JSON data loaded in TableView
 
+
+17th May
+https://github.com/rjowens/FormattedTextView.git
+FormattedTextView example using CoreText in RubyMotion
+
+https://github.com/collectiveidea/rubymotion-parsedotcom-chat.git
+need parse.com credentials for your app
+
+https://github.com/lukeroberts1990/Motion-iPad-Gallery
+Popover and xib example for ruby motion
+
 Tools and Libraries
 ===================
 
@@ -273,3 +286,7 @@ https://github.com/clarkware/Commotion.git
 CoreData wrapper WIP, but it works 
 
 https://github.com/malkomalko/motion-layouts.git
+
+
+https://github.com/rcyrus/snipmate-snippets-rubymotion.git
+snippets library, find all methods and parameters, a lifesaver when you are in REPL
