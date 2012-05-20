@@ -248,11 +248,14 @@ FormattedTextView example using CoreText in RubyMotion
 https://github.com/collectiveidea/rubymotion-parsedotcom-chat.git
 need parse.com credentials for your app
 
-https://github.com/lukeroberts1990/Motion-iPad-Gallery
+https://github.com/lukeroberts1990/Motion-iPad-Gallery.git
 Popover and xib example for ruby motion
 
 Tools and Libraries
 ===================
+
+https://railsfactory@github.com/railsfactory/rubymotion-sqlite.git
+Sqlite library
 
 textmate bundle
 https://github.com/libin/RubyMotion.tmbundle
