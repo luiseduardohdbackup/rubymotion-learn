@@ -3,13 +3,13 @@
 I have started writing a RubyMotion Book , it is hosted on gitbook
 
 repository
-https://github.com/railsfactory/rubymotion-cookbook
+[https://github.com/railsfactory/rubymotion-cookbook](https://github.com/railsfactory/rubymotion-cookbook)
 
 you can download a copy here
-https://github.com/railsfactory/rubymotion-cookbook/downloads
+[https://github.com/railsfactory/rubymotion-cookbook/downloads](https://github.com/railsfactory/rubymotion-cookbook/downloads)
 
 you can submit your feedback/corrections/code here
-https://github.com/railsfactory/rubymotion-cookbook/issues
+[https://github.com/railsfactory/rubymotion-cookbook/issues](https://github.com/railsfactory/rubymotion-cookbook/issues)
 
 Most of you are coming to this page to find all interesting RubyMotion projects
 
@@ -74,9 +74,14 @@ projects tested on my 2008 mbp
 
 17th May 84 projects
 
+22nd May 99 projects
+
+
 RUNS
 ====
 
+https://github.com/railsfactory/rubymotion-sqlite.git
+Sqlite Library, ActiveRecord style , you can query with SQL, uses FMDB
 
 https://github.com/HipByte/RubyMotionSamples.git
 every sample app works
@@ -218,38 +223,43 @@ lightning talk timer, one app which you can use in real life immediately awesome
 https://github.com/jaimeiniesta/rubymotion-todo.git
 todo app, WIP, added via cookbook ticket
 
-FAILS
-=====
-getting errors DTiPhoneSimulatorErrorDomain
- 
-last tested on 9th May
-
-https://github.com/siuying/RubyMotionCocos2d-Static.git
-Cocos2d demo app, builds but when opening app crashes
+works on RubyMotion 1.5
 
 https://github.com/seanho/SimpleView.git
 
 https://github.com/siuying/hpple-motion.git
 An XML/HTML parser for RubyMotion, with nokogiri style interface., fails for now
 
+https://github.com/netmute/MotionHighscores.git
+high scores app, JSON data loaded in TableView
+
+https://github.com/rjowens/FormattedTextView.git
+FormattedTextView example using CoreText in RubyMotion
+
+https://github.com/lukeroberts1990/Motion-iPad-Gallery.git
+Popover and xib example for ruby motion
+
+FAILS
+=====
+getting errors DTiPhoneSimulatorErrorDomain
+ 
+
+possible error could be need for configuration or API Keys for Parse and FourSquare
+
+last tested on 22nd May
+
+https://github.com/siuying/RubyMotionCocos2d-Static.git
+Cocos2d demo app, builds but when opening app crashes
+
 https://github.com/fearoffish/rubymotion-starter-kits.git
 
 https://github.com/geraudmathe/rubymotion-foursquare.git
 foursquare api implementation WIP
 
-https://github.com/netmute/MotionHighscores.git
-high scores app, JSON data loaded in TableView
-
-
-17th May
-https://github.com/rjowens/FormattedTextView.git
-FormattedTextView example using CoreText in RubyMotion
-
 https://github.com/collectiveidea/rubymotion-parsedotcom-chat.git
 need parse.com credentials for your app
 
-https://github.com/lukeroberts1990/Motion-iPad-Gallery.git
-Popover and xib example for ruby motion
+
 
 Tools and Libraries
 ===================
