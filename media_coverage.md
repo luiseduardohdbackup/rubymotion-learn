@@ -54,6 +54,15 @@ http://ianp.org/2012/05/07/rubymotion-and-interface-builder/
 
 http://reality.hk/posts/2012/05/05/using-3rd-party-ruby-library-rubymotion/
 
+http://joshsymonds.com/blog/2012/05/10/from-the-rubymotion-simulator-to-your-friends-iphone/
+
+http://www.rubymotion.com/developer-center/articles/testflight/
+
+
+http://irrationalfab.github.com/blog/2012/05/22/introducing-live-for-rubymotion/
+
+
+
 
 
 
