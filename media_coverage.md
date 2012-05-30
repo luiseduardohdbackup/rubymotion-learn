@@ -62,7 +62,7 @@ http://www.rubymotion.com/developer-center/articles/testflight/
 http://irrationalfab.github.com/blog/2012/05/22/introducing-live-for-rubymotion/
 
 
-
+http://iconoclastlabs.com/cms/blog/posts/phonegap-vs-rubymotion
 
 
 
