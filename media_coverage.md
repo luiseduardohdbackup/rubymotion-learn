@@ -65,6 +65,6 @@ http://irrationalfab.github.com/blog/2012/05/22/introducing-live-for-rubymotion/
 http://iconoclastlabs.com/cms/blog/posts/phonegap-vs-rubymotion
 
 
-
+http://calebcohoon.blogspot.in/2012/06/test-rubymotion-apps-using-cucumber.html
 
 
